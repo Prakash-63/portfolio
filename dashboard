@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Data Analyst Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Data Analyst | Your Area of Expertise</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Write a brief introduction about yourself, your passion for data analysis, and your key skills.</p>
+        <p>Mention your education, experience, and anything that makes you unique.</p>
+        <div class="skills">
+            <h3>Skills</h3>
+            <ul>
+                <li>SQL</li>
+                <li>Python</li>
+                <li>R</li>
+                <li>Tableau</li>
+                <li>Power BI</li>
+                </ul>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+
+        <div class="project">
+            <h3>Project Title 1</h3>
+            <p>Brief description of your project. Highlight the problem you solved, the tools you used, and the impact of your analysis.</p>
+            <a href="link_to_github_repo">View Code on GitHub</a>
+            <a href="link_to_dashboard">View Dashboard (if applicable)</a>
+        </div>
+
+        <div class="project">
+            <h3>Project Title 2</h3>
+            <p>Brief description of your project. Highlight the problem you solved, the tools you used, and the impact of your analysis.</p>
+            <a href="link_to_github_repo">View Code on GitHub</a>
+            <a href="link_to_dashboard">View Dashboard (if applicable)</a>
+        </div>
+
+        </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Provide your contact information (email, LinkedIn, GitHub, etc.) so potential employers or clients can reach you.</p>
+        </section>
+
+    <footer>
+        <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
